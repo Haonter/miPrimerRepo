@@ -1,7 +1,0 @@
-menu
-historia
-fotos
-comentarios
-contacto
-pie de pagina
-Ya se trabajo el inicio se sesion por roles
